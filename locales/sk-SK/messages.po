@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: tao-open-source\n"
-"PO-Revision-Date: 2025-08-01 08:37\n"
+"PO-Revision-Date: 2026-02-03 16:43\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
 "Language: sk\n"
@@ -19,6 +19,15 @@ msgstr ""
 "X-Crowdin-File: /[oat-sa.extension-tao-itemqti-pci] develop/locales/en-US/messages.po\n"
 "X-Crowdin-File-ID: 571\n"
 "Language-Team: Slovak\n"
+
+msgid "2 rows"
+msgstr "2 riadky"
+
+msgid "2 rows & 2 columns"
+msgstr "2 riadky a 2 stĺpce"
+
+msgid "Add alternative"
+msgstr "Pridať alternatívu"
 
 msgid "Add answer option"
 msgstr "Pridať možnosť odpovede"
@@ -38,14 +47,17 @@ msgstr "povoliť zalomenie riadku"
 msgid "Allow playback"
 msgstr "Povoliť prehrávanie"
 
+msgid "Alternative"
+msgstr "Alternatíva"
+
 msgid "angle"
 msgstr "uhol"
 
+msgid "Approximately"
+msgstr "Približne"
+
 msgid "Audio bitrate:"
 msgstr "Bitová rýchlosť zvuku:"
-
-msgid "Your browser blocked auto-play. Press Play to listen to your recording."
-msgstr "Váš prehliadač zablokoval automatické prehrávanie. Stlačte tlačidlo Prehrať a vypočujte si nahrávku."
 
 msgid "Audio has been previously recorded. Your browser does not support the playback of this recording. Please try on a different browser."
 msgstr "Zvuk bol predtým nahraný. Váš prehliadač nepodporuje prehrávanie tejto nahrávky. Skúste to v inom prehliadači."
@@ -74,11 +86,23 @@ msgstr "Kanály"
 msgid "Close dialog"
 msgstr "Zatvoriť dialógové okno"
 
+msgid "colon"
+msgstr "hrubé črevo"
+
 msgid "Comparison"
 msgstr "Porovnanie"
 
 msgid "Compressed"
 msgstr "Komprimované"
+
+msgid "congruent"
+msgstr "zhodný"
+
+msgid "contains as member"
+msgstr "obsahuje ako člen"
+
+msgid "Correct"
+msgstr "Správne"
 
 msgid "Correct answer option"
 msgstr "Správna možnosť odpovede"
@@ -89,6 +113,9 @@ msgstr "kosínus"
 msgid "Define correct responses"
 msgstr "Definujte správne odpovede"
 
+msgid "Degree symbol"
+msgstr "Symbol stupňa"
+
 msgid "Delete"
 msgstr "Odstrániť"
 
@@ -98,6 +125,12 @@ msgstr "vymazať odpoveď"
 msgid "disabled"
 msgstr "postihnutý"
 
+msgid "Display icons at each end, or not"
+msgstr "Zobraziť ikony na oboch koncoch alebo nie"
+
+msgid "Display numbers above the choices, or not"
+msgstr "Zobraziť čísla nad možnosťami alebo nie"
+
 msgid "divide"
 msgstr "rozdeliť"
 
@@ -106,6 +139,9 @@ msgstr "Stiahnuť"
 
 msgid "edit the answer"
 msgstr "upraviť odpoveď"
+
+msgid "Enable all symbols"
+msgstr "Povoliť všetky symboly"
 
 msgid "enable auto wrap"
 msgstr "povoliť automatické zalamovanie"
@@ -146,6 +182,18 @@ msgstr "väčší ako"
 msgid "greater than or equal"
 msgstr "väčšie alebo rovné"
 
+msgid "Hide record button"
+msgstr "Tlačidlo Skryť nahrávanie"
+
+msgid "Hide stop button"
+msgstr "Skryť tlačidlo zastavenia"
+
+msgid "Hide the record button from test takers."
+msgstr "Skryte tlačidlo nahrávania pred účastníkmi testu."
+
+msgid "Hide the stop button from test takers."
+msgstr "Skryte tlačidlo zastavenia pred účastníkmi testu."
+
 msgid "id : "
 msgstr "id: "
 
@@ -155,11 +203,17 @@ msgstr "V bps (bitoch za sekundu). Nastavte kompromis medzi kvalitou zvuku a ve�
 msgid "In seconds. Maximum recording time allowed (cannot be less than 10seconds). Recording will automatically stop once reached."
 msgstr "V sekundách. Maximálny povolený čas nahrávania (nesmie byť kratší ako 10 sekúnd). Nahrávanie sa po jeho dosiahnutí automaticky zastaví."
 
+msgid "In seconds. Maximum recording time allowed (cannot be less than 5 seconds). Recording will automatically stop once reached."
+msgstr "V sekundách. Maximálny povolený čas nahrávania (nesmie byť kratší ako 5 sekúnd). Nahrávanie sa po dosiahnutí tohto času automaticky zastaví."
+
 msgid "In seconds. The time interval between partial updates of the recording."
 msgstr "V sekundách. Časový interval medzi čiastočnými aktualizáciami záznamu."
 
 msgid "Indefinite integral"
 msgstr "Neurčitý integrál"
+
+msgid "Indicates that the audio forms part of a sequence with other sequential interactions. The advancing of the sequence is handled by the delivery engine. Delays are also respected."
+msgstr "Označuje, že zvuk tvorí súčasť sekvencie s inými sekvenčnými interakciami. Posúvanie sekvencie vpred zabezpečuje doručovací modul. Rešpektujú sa aj oneskorenia."
 
 msgid "Invalid files have been removed"
 msgstr "Neplatné súbory boli odstránené"
@@ -182,6 +236,9 @@ msgstr "Veľký"
 msgid "Level"
 msgstr "Úroveň"
 
+msgid "limit"
+msgstr "limit"
+
 msgid "ln"
 msgstr "v"
 
@@ -197,8 +254,17 @@ msgstr "nižšie alebo rovné"
 msgid "Manage custom interactions"
 msgstr "Spravovať vlastné interakcie"
 
+msgid "Mapping default"
+msgstr "Predvolené mapovanie"
+
+msgid "Matrix"
+msgstr "Matica"
+
 msgid "Max attempts:"
 msgstr "Maximálny počet pokusov:"
+
+msgid "Maximal score for this interaction."
+msgstr "Maximálne skóre pre túto interakciu."
 
 msgid "Maximum number of recording attempts allowed to the test taker. Set to 0 to allow unlimited attempts. With a limit of 3, the test taker will be able to click 2 times on the reset button."
 msgstr "Maximálny počet pokusov o nahrávanie povolený účastníkovi testu. Nastavte na 0, ak chcete povoliť neobmedzený počet pokusov. Pri limite 3 bude môcť účastník testu dvakrát kliknúť na tlačidlo resetovania."
@@ -209,11 +275,17 @@ msgstr "Stredné"
 msgid "Min:"
 msgstr "Minimálne:"
 
+msgid "Minimal score for this interaction."
+msgstr "Minimálne skóre pre túto interakciu."
+
 msgid "minus"
 msgstr "mínus"
 
 msgid "Mono"
 msgstr "Mono"
+
+msgid "n-root"
+msgstr "n-koreň"
 
 msgid "No Custom Interaction"
 msgstr "Žiadna vlastná interakcia"
@@ -229,6 +301,15 @@ msgstr "Možnosti"
 
 msgid "parentheses/round brackets"
 msgstr "zátvorky/okrúhle zátvorky"
+
+msgid "Percent"
+msgstr "Percento"
+
+msgid "Play a sound at the start and end of recording."
+msgstr "Prehrať zvuk na začiatku a na konci nahrávania."
+
+msgid "Play sound"
+msgstr "Prehrať zvuk"
 
 msgid "plus"
 msgstr "plus"
@@ -246,17 +327,32 @@ msgstr "Nahraný zvuk sa po zastavení nahrávania automaticky prehrá. Počas p
 msgid "Recording format"
 msgstr "Formát nahrávania"
 
+msgid "Recording starts automatically once test taker give microphone use authorisation."
+msgstr "Nahrávanie sa spustí automaticky, akonáhle účastník testu udelí autorizáciu na použitie mikrofónu."
+
 msgid "Recording starts automatically once test taker give microphone use authorisation. If a media stimulus is used, then the recording starts automatically after the stimulus has been played."
 msgstr "Nahrávanie sa spustí automaticky, akonáhle účastník testu udelí autorizáciu na použitie mikrofónu. Ak sa použije mediálny podnet, nahrávanie sa spustí automaticky po jeho prehratí."
 
 msgid "Response identifier"
 msgstr "Identifikátor odpovede"
 
+msgid "right arrow"
+msgstr "šípka doprava"
+
 msgid "Scale size"
 msgstr "Veľkosť mierky"
 
+msgid "Score"
+msgstr "Skóre"
+
+msgid "Score range"
+msgstr "Rozsah skóre"
+
 msgid "Sec:"
 msgstr "Sekcia:"
+
+msgid "Sequential"
+msgstr "Sekvenčné"
 
 msgid "set intersection"
 msgstr "križovatka množiny"
@@ -267,6 +363,12 @@ msgstr "zjednotenie množín"
 #, tao-public
 msgid "Settings"
 msgstr "Nastavenia"
+
+msgid "Show icons"
+msgstr "Zobraziť ikony"
+
+msgid "Show numbers"
+msgstr "Zobraziť čísla"
 
 msgid "similar"
 msgstr "podobný"
@@ -289,11 +391,26 @@ msgstr "Stereo"
 msgid "subscript"
 msgstr "dolný index"
 
+msgid "subset"
+msgstr "podmnožina"
+
+msgid "sum"
+msgstr "súčet"
+
+msgid "superset"
+msgstr "nadmnožina"
+
 msgid "Symbols"
 msgstr "Symboly"
 
+msgid "tangent"
+msgstr "tangenta"
+
 msgid "The identifier of the choice. This identifier must not be used by any other response or item variable. An identifier is a string of characters that must start with a Letter or an underscore (\"_\") and contain only Letters, underscores, hyphens (\"-\"), period (\".\", a.k.a. full-stop), Digits, CombiningChars and Extenders."
 msgstr "Identifikátor podľa výberu. Tento identifikátor nesmie byť použitý žiadnou inou premennou odpovede alebo položky. Identifikátor je reťazec znakov, ktorý musí začínať písmenom alebo podčiarkovníkom („_“) a obsahuje iba písmená, podčiarkovníky, pomlčky („-“), bodku („.“, čiže bodku), číslice, kombinované znaky a rozširujúce znaky."
+
+msgid "The mapping options are available when at least one map entry is defined."
+msgstr "Možnosti mapovania sú k dispozícii, keď je definovaný aspoň jeden záznam mapy."
 
 msgid "This is for testing purposes only. Displays a link to download the recorded file once the recording stops. This shouldn't be used in a delivery context, as it would allow the test taker to download its own recording."
 msgstr "Toto slúži len na testovacie účely. Po zastavení nahrávania sa zobrazí odkaz na stiahnutie nahraného súboru. Toto by sa nemalo používať v kontexte reálneho testovania, pretože by to umožnilo účastníkovi testu stiahnuť si vlastnú nahrávku."
@@ -340,11 +457,20 @@ msgstr "Využite mediálne podnety"
 msgid "version : "
 msgstr "verzia: "
 
+msgid "Vertical line, divide"
+msgstr "Zvislá čiara, delenie"
+
 msgid "Warning"
 msgstr "POZOR"
 
 msgid "With compressed recording, the audio is saved as a webm or ogg file (smaller size). With uncompressed, as a lossless Wav file (much bigger size)."
 msgstr "Pri komprimovanom nahrávaní sa zvuk ukladá ako súbor WebM alebo Ogg (menšia veľkosť). Pri nekomprimovanom nahrávaní sa ukladá ako bezstratový súbor Wav (oveľa väčšia veľkosť)."
+
+msgid "Your browser blocked auto-play. Press Play to listen to your recording."
+msgstr "Váš prehliadač zablokoval automatické prehrávanie. Stlačte tlačidlo Prehrať a vypočujte si nahrávku."
+
+msgid "≈"
+msgstr "≈"
 
 msgid "≤"
 msgstr "≤"
