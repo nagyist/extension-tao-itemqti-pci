@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: TAO 2026.01\n"
-"PO-Revision-Date: 2026-01-30T13:25:17\n"
+"Project-Id-Version: tao-open-source\n"
+"PO-Revision-Date: 2026-02-03 16:43\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
 "Language: it-IT\n"
@@ -14,13 +14,13 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 msgid "2 rows"
-msgstr ""
+msgstr "2 righe"
 
 msgid "2 rows & 2 columns"
-msgstr ""
+msgstr "2 righe & 2 colonne"
 
 msgid "Add alternative"
-msgstr ""
+msgstr "Aggiungi alternativa"
 
 msgid "Add answer option"
 msgstr ""
@@ -41,13 +41,13 @@ msgid "Allow playback"
 msgstr ""
 
 msgid "Alternative"
-msgstr ""
+msgstr "Alternativa"
 
 msgid "angle"
 msgstr ""
 
 msgid "Approximately"
-msgstr ""
+msgstr "Approssimativamente"
 
 msgid "Audio bitrate:"
 msgstr ""
@@ -80,7 +80,7 @@ msgid "Close dialog"
 msgstr ""
 
 msgid "colon"
-msgstr ""
+msgstr "colon"
 
 msgid "Comparison"
 msgstr ""
@@ -89,13 +89,13 @@ msgid "Compressed"
 msgstr ""
 
 msgid "congruent"
-msgstr ""
+msgstr "congruente"
 
 msgid "contains as member"
-msgstr ""
+msgstr "contiene come membro"
 
 msgid "Correct"
-msgstr ""
+msgstr "Corretto"
 
 msgid "Correct answer option"
 msgstr ""
@@ -107,7 +107,7 @@ msgid "Define correct responses"
 msgstr ""
 
 msgid "Degree symbol"
-msgstr ""
+msgstr "Simbolo di livello"
 
 msgid "Delete"
 msgstr ""
@@ -119,10 +119,10 @@ msgid "disabled"
 msgstr ""
 
 msgid "Display icons at each end, or not"
-msgstr ""
+msgstr "Mostra icone ad ogni estremità, o non"
 
 msgid "Display numbers above the choices, or not"
-msgstr ""
+msgstr "Mostra i numeri sopra le scelte, o non"
 
 msgid "divide"
 msgstr ""
@@ -134,7 +134,7 @@ msgid "edit the answer"
 msgstr ""
 
 msgid "Enable all symbols"
-msgstr ""
+msgstr "Abilita tutti i simboli"
 
 msgid "enable auto wrap"
 msgstr ""
@@ -176,16 +176,16 @@ msgid "greater than or equal"
 msgstr ""
 
 msgid "Hide record button"
-msgstr ""
+msgstr "Nascondi pulsante record"
 
 msgid "Hide stop button"
-msgstr ""
+msgstr "Nascondi pulsante stop"
 
 msgid "Hide the record button from test takers."
-msgstr ""
+msgstr "Nascondi il pulsante di registrazione dai giocatori di prova."
 
 msgid "Hide the stop button from test takers."
-msgstr ""
+msgstr "Nascondi il pulsante di arresto dai giocatori di prova."
 
 msgid "id : "
 msgstr ""
@@ -197,7 +197,7 @@ msgid "In seconds. Maximum recording time allowed (cannot be less than 10seconds
 msgstr ""
 
 msgid "In seconds. Maximum recording time allowed (cannot be less than 5 seconds). Recording will automatically stop once reached."
-msgstr ""
+msgstr "In pochi secondi. Tempo di registrazione massimo consentito (non può essere inferiore a 5 secondi). La registrazione si fermerà automaticamente una volta raggiunta."
 
 msgid "In seconds. The time interval between partial updates of the recording."
 msgstr ""
@@ -230,7 +230,7 @@ msgid "Level"
 msgstr ""
 
 msgid "limit"
-msgstr ""
+msgstr "limite"
 
 msgid "ln"
 msgstr ""
@@ -248,16 +248,16 @@ msgid "Manage custom interactions"
 msgstr ""
 
 msgid "Mapping default"
-msgstr ""
+msgstr "Mappatura di default"
 
 msgid "Matrix"
-msgstr ""
+msgstr "Matrice"
 
 msgid "Max attempts:"
 msgstr ""
 
 msgid "Maximal score for this interaction."
-msgstr ""
+msgstr "Punteggio massimo per questa interazione."
 
 msgid "Maximum number of recording attempts allowed to the test taker. Set to 0 to allow unlimited attempts. With a limit of 3, the test taker will be able to click 2 times on the reset button."
 msgstr ""
@@ -269,7 +269,7 @@ msgid "Min:"
 msgstr ""
 
 msgid "Minimal score for this interaction."
-msgstr ""
+msgstr "Punteggio minimo per questa interazione."
 
 msgid "minus"
 msgstr ""
@@ -278,7 +278,7 @@ msgid "Mono"
 msgstr ""
 
 msgid "n-root"
-msgstr ""
+msgstr "n-radice"
 
 msgid "No Custom Interaction"
 msgstr ""
@@ -296,13 +296,13 @@ msgid "parentheses/round brackets"
 msgstr ""
 
 msgid "Percent"
-msgstr ""
+msgstr "Percentuale"
 
 msgid "Play a sound at the start and end of recording."
-msgstr ""
+msgstr "Riproduci un suono all'inizio e alla fine della registrazione."
 
 msgid "Play sound"
-msgstr ""
+msgstr "Riproduci suono"
 
 msgid "plus"
 msgstr ""
@@ -321,7 +321,7 @@ msgid "Recording format"
 msgstr ""
 
 msgid "Recording starts automatically once test taker give microphone use authorisation."
-msgstr ""
+msgstr "La registrazione inizia automaticamente una volta che il beneficiario del test dà l'autorizzazione all'uso del microfono."
 
 msgid "Recording starts automatically once test taker give microphone use authorisation. If a media stimulus is used, then the recording starts automatically after the stimulus has been played."
 msgstr ""
@@ -330,16 +330,16 @@ msgid "Response identifier"
 msgstr "Identificatore risposta"
 
 msgid "right arrow"
-msgstr ""
+msgstr "freccia destra"
 
 msgid "Scale size"
 msgstr ""
 
 msgid "Score"
-msgstr ""
+msgstr "Punteggio"
 
 msgid "Score range"
-msgstr ""
+msgstr "Intervallo di punteggio"
 
 msgid "Sec:"
 msgstr ""
@@ -358,10 +358,10 @@ msgid "Settings"
 msgstr ""
 
 msgid "Show icons"
-msgstr ""
+msgstr "Mostra icone"
 
 msgid "Show numbers"
-msgstr ""
+msgstr "Mostra numeri"
 
 msgid "similar"
 msgstr ""
@@ -385,19 +385,19 @@ msgid "subscript"
 msgstr ""
 
 msgid "subset"
-msgstr ""
+msgstr "sottoinsieme"
 
 msgid "sum"
-msgstr ""
+msgstr "sum"
 
 msgid "superset"
-msgstr ""
+msgstr "superset"
 
 msgid "Symbols"
 msgstr ""
 
 msgid "tangent"
-msgstr ""
+msgstr "tangent"
 
 msgid "The identifier of the choice. This identifier must not be used by any other response or item variable. An identifier is a string of characters that must start with a Letter or an underscore (\"_\") and contain only Letters, underscores, hyphens (\"-\"), period (\".\", a.k.a. full-stop), Digits, CombiningChars and Extenders."
 msgstr "L'identificativo della scelta. Questo identificatore non deve essere utilizzato da qualsiasi altra variabile risposta o item. Un identificatore è una stringa di caratteri che deve iniziare con una lettera o un carattere di sottolineatura (\"_\") (underscore) e contenere solo lettere, underscore, trattini (\"-\"), punto (\".\", full-stop), cifre, combinazioni di caratteri e Extender."
@@ -451,7 +451,7 @@ msgid "version : "
 msgstr ""
 
 msgid "Vertical line, divide"
-msgstr ""
+msgstr "Riga verticale, divisione"
 
 msgid "Warning"
 msgstr ""
@@ -463,7 +463,7 @@ msgid "Your browser blocked auto-play. Press Play to listen to your recording."
 msgstr ""
 
 msgid "≈"
-msgstr ""
+msgstr "≈"
 
 msgid "≤"
 msgstr ""

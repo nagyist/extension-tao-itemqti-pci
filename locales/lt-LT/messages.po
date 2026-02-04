@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: TAO 2026.01\n"
-"PO-Revision-Date: 2026-01-30T13:25:17\n"
+"Project-Id-Version: tao-open-source\n"
+"PO-Revision-Date: 2026-02-03 16:43\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
 "Language: lt-LT\n"
@@ -95,7 +95,7 @@ msgid "contains as member"
 msgstr ""
 
 msgid "Correct"
-msgstr ""
+msgstr "Teisingai"
 
 msgid "Correct answer option"
 msgstr ""
@@ -257,7 +257,7 @@ msgid "Max attempts:"
 msgstr "Maks. bandymų:"
 
 msgid "Maximal score for this interaction."
-msgstr ""
+msgstr "Maksimalūs balai šiai užduočiai."
 
 msgid "Maximum number of recording attempts allowed to the test taker. Set to 0 to allow unlimited attempts. With a limit of 3, the test taker will be able to click 2 times on the reset button."
 msgstr "Maksimalus leidžiamas kiekis testo laikytojui atlikti įrašus. Nustačius 0, bus leidžiamas neribotas kiekis bandymų. Nustačius limitą trims, testo laikytojui bus galima paspausti 2 kartus atstatymo mygtuką."
@@ -336,10 +336,10 @@ msgid "Scale size"
 msgstr "Skalės dydis"
 
 msgid "Score"
-msgstr ""
+msgstr "Balai"
 
 msgid "Score range"
-msgstr ""
+msgstr "Balo intervalas"
 
 msgid "Sec:"
 msgstr "Sek.:"

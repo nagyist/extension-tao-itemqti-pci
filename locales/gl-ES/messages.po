@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: TAO 2026.01\n"
-"PO-Revision-Date: 2026-01-30T13:25:16\n"
+"Project-Id-Version: tao-open-source\n"
+"PO-Revision-Date: 2026-02-03 16:43\n"
 "Last-Translator: TAO Translation Team <translation@tao.lu>\n"
 "MIME-Version: 1.0\n"
 "Language: gl-ES\n"
@@ -14,13 +14,13 @@ msgstr ""
 "X-Poedit-SearchPath-0: .\n"
 
 msgid "2 rows"
-msgstr ""
+msgstr "2 filas"
 
 msgid "2 rows & 2 columns"
-msgstr ""
+msgstr "2 filas e 2 columnas"
 
 msgid "Add alternative"
-msgstr ""
+msgstr "Engadir alternativa"
 
 msgid "Add answer option"
 msgstr ""
@@ -41,13 +41,13 @@ msgid "Allow playback"
 msgstr ""
 
 msgid "Alternative"
-msgstr ""
+msgstr "Alternativa"
 
 msgid "angle"
 msgstr ""
 
 msgid "Approximately"
-msgstr ""
+msgstr "Aproximadamente"
 
 msgid "Audio bitrate:"
 msgstr ""
@@ -80,7 +80,7 @@ msgid "Close dialog"
 msgstr ""
 
 msgid "colon"
-msgstr ""
+msgstr "colon"
 
 msgid "Comparison"
 msgstr ""
@@ -89,10 +89,10 @@ msgid "Compressed"
 msgstr ""
 
 msgid "congruent"
-msgstr ""
+msgstr "congruente"
 
 msgid "contains as member"
-msgstr ""
+msgstr "contén como membro"
 
 msgid "Correct"
 msgstr ""
@@ -107,7 +107,7 @@ msgid "Define correct responses"
 msgstr ""
 
 msgid "Degree symbol"
-msgstr ""
+msgstr "Símbolo de grao"
 
 msgid "Delete"
 msgstr ""
@@ -119,10 +119,10 @@ msgid "disabled"
 msgstr ""
 
 msgid "Display icons at each end, or not"
-msgstr ""
+msgstr "Mostrar iconas en cada extremo ou non"
 
 msgid "Display numbers above the choices, or not"
-msgstr ""
+msgstr "Mostrar ou non os números enriba das opcións"
 
 msgid "divide"
 msgstr ""
@@ -134,7 +134,7 @@ msgid "edit the answer"
 msgstr ""
 
 msgid "Enable all symbols"
-msgstr ""
+msgstr "Activar todos os símbolos"
 
 msgid "enable auto wrap"
 msgstr ""
@@ -176,16 +176,16 @@ msgid "greater than or equal"
 msgstr ""
 
 msgid "Hide record button"
-msgstr ""
+msgstr "Ocultar botón de gravación"
 
 msgid "Hide stop button"
-msgstr ""
+msgstr "Ocultar o botón de parada"
 
 msgid "Hide the record button from test takers."
-msgstr ""
+msgstr "Ocultar o botón de gravación dos examinandos."
 
 msgid "Hide the stop button from test takers."
-msgstr ""
+msgstr "Ocultar o botón de parar dos examinandos."
 
 msgid "id : "
 msgstr ""
@@ -197,7 +197,7 @@ msgid "In seconds. Maximum recording time allowed (cannot be less than 10seconds
 msgstr ""
 
 msgid "In seconds. Maximum recording time allowed (cannot be less than 5 seconds). Recording will automatically stop once reached."
-msgstr ""
+msgstr "En segundos. Tempo máximo de gravación permitido (non pode ser inferior a 5 segundos). A gravación deterase automaticamente unha vez alcanzado."
 
 msgid "In seconds. The time interval between partial updates of the recording."
 msgstr ""
@@ -230,7 +230,7 @@ msgid "Level"
 msgstr ""
 
 msgid "limit"
-msgstr ""
+msgstr "límite"
 
 msgid "ln"
 msgstr ""
@@ -251,7 +251,7 @@ msgid "Mapping default"
 msgstr ""
 
 msgid "Matrix"
-msgstr ""
+msgstr "Matriz"
 
 msgid "Max attempts:"
 msgstr ""
@@ -269,7 +269,7 @@ msgid "Min:"
 msgstr ""
 
 msgid "Minimal score for this interaction."
-msgstr ""
+msgstr "Puntuación mínima para esta interacción."
 
 msgid "minus"
 msgstr ""
@@ -278,7 +278,7 @@ msgid "Mono"
 msgstr ""
 
 msgid "n-root"
-msgstr ""
+msgstr "raíz n"
 
 msgid "No Custom Interaction"
 msgstr ""
@@ -296,13 +296,13 @@ msgid "parentheses/round brackets"
 msgstr ""
 
 msgid "Percent"
-msgstr ""
+msgstr "Porcentaxe"
 
 msgid "Play a sound at the start and end of recording."
-msgstr ""
+msgstr "Reproducir un son ao comezo e ao final da gravación."
 
 msgid "Play sound"
-msgstr ""
+msgstr "Reproducir son"
 
 msgid "plus"
 msgstr ""
@@ -321,7 +321,7 @@ msgid "Recording format"
 msgstr ""
 
 msgid "Recording starts automatically once test taker give microphone use authorisation."
-msgstr ""
+msgstr "A gravación comeza automaticamente unha vez que o examinando autoriza o uso do micrófono."
 
 msgid "Recording starts automatically once test taker give microphone use authorisation. If a media stimulus is used, then the recording starts automatically after the stimulus has been played."
 msgstr ""
@@ -330,7 +330,7 @@ msgid "Response identifier"
 msgstr ""
 
 msgid "right arrow"
-msgstr ""
+msgstr "frecha dereita"
 
 msgid "Scale size"
 msgstr ""
@@ -358,10 +358,10 @@ msgid "Settings"
 msgstr ""
 
 msgid "Show icons"
-msgstr ""
+msgstr "Mostrar iconas"
 
 msgid "Show numbers"
-msgstr ""
+msgstr "Mostrar números"
 
 msgid "similar"
 msgstr ""
@@ -385,19 +385,19 @@ msgid "subscript"
 msgstr ""
 
 msgid "subset"
-msgstr ""
+msgstr "subconxunto"
 
 msgid "sum"
-msgstr ""
+msgstr "suma"
 
 msgid "superset"
-msgstr ""
+msgstr "superconxunto"
 
 msgid "Symbols"
 msgstr ""
 
 msgid "tangent"
-msgstr ""
+msgstr "tanxente"
 
 msgid "The identifier of the choice. This identifier must not be used by any other response or item variable. An identifier is a string of characters that must start with a Letter or an underscore (\"_\") and contain only Letters, underscores, hyphens (\"-\"), period (\".\", a.k.a. full-stop), Digits, CombiningChars and Extenders."
 msgstr ""
@@ -451,7 +451,7 @@ msgid "version : "
 msgstr ""
 
 msgid "Vertical line, divide"
-msgstr ""
+msgstr "Liña vertical, división"
 
 msgid "Warning"
 msgstr ""
@@ -463,7 +463,7 @@ msgid "Your browser blocked auto-play. Press Play to listen to your recording."
 msgstr ""
 
 msgid "≈"
-msgstr ""
+msgstr "≈"
 
 msgid "≤"
 msgstr ""
