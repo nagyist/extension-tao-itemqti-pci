@@ -257,6 +257,7 @@ define([
                     if (typeof state.recordsAttempts === 'number' && state.recordsAttempts >= 0) {
                         this._recordsAttempts = state.recordsAttempts;
                         this.updateResetCount();
+                        this.updateControls();
                     }
                 } else {
                     this.setResponse(state);
