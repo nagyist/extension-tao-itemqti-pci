@@ -856,11 +856,12 @@ define([
                 var isRecording = this.recorder && typeof this.recorder.is === 'function' && this.recorder.is('recording');
                 var recordableAmount = (!this.getRecording() && !isRecording) ? 1 : 0,
                     remaining = this.config.maxRecords - this._recordsAttempts - recordableAmount,
+                    visualRemaining = Math.max(0, remaining),
                     resetLabel = deleteIcon,
                     canRecordAgain;
 
                 if (this.config.maxRecords > 1) {
-                    resetLabel += ' (' + remaining + ')';
+                    resetLabel += ' (' + visualRemaining + ')';
                 }
                 if (this.controls.reset) {
                     this.controls.reset.updateLabel(resetLabel);
