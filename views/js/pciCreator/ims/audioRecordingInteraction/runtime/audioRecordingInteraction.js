@@ -1057,7 +1057,7 @@ define([
                     reset.on(
                         'updatestate',
                         function () {
-                            if (self.config.maxRecords > 1 && self.config.maxRecords === self._recordsAttempts) {
+                            if (self.config.maxRecords > 1 && self.config.maxRecords <= self._recordsAttempts) {
                                 this.disable();
                             } else if (
                                 self.player.is('idle') &&
